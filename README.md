@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 🔭 I'm a PhD candidate at Nankai University.
+### 🌱 I'm interested in Deep Learning, Data Compression, Bioinformatics, etc.
+### 📧 My e-mail: mahd@nbjl.nankai.edu.cn
 
 <!--
 **mhuidong/mhuidong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
