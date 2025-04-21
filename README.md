@@ -2,13 +2,14 @@
 #### 🔭 I'm a PhD candidate from NBJL.
 #### 🌱 I'm interested in Deep Learning, Data Compression, Bioinformatics, etc.
 #### 📧 My e-mail: mahd@nbjl.nankai.edu.cn
+#### :link: My website: www.mahuidong.com
 
 
 <!--
 **mhuidong/mhuidong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-#### :link: My website: www.mahuidong.com
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
