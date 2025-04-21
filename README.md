@@ -2,7 +2,7 @@
 #### 🔭 I'm a PhD candidate from NBJL.
 #### 🌱 I'm interested in Deep Learning, Data Compression, Bioinformatics, etc.
 #### 📧 My e-mail: mahd@nbjl.nankai.edu.cn
-#### :link: My website: <a href="www.mahuidong.com" target="_blank">www.mahuidong.com</a> 
+#### :link: My website: <a href="https://www.mahuidong.com" target="_blank">www.mahuidong.com</a> 
 
 
 <!--
