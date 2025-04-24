@@ -1,8 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 #### 🔭 I'm a PhD candidate from NBJL.
-#### 🌱 I'm interested in Deep Learning, Data Compression, Bioinformatics, etc.
+#### 🌱 I'm interested in Deep Learning, Data Compression, Parallel Computing, etc.
 #### 📧 My e-mail: mahd@nbjl.nankai.edu.cn
-#### :link: My website: <a href="https://www.mahuidong.com" target="_blank">www.mahuidong.com</a> 
+#### 🔗 My website: <a href="https://www.mahuidong.com" target="_blank">www.mahuidong.com</a> 
+
+# 📢News
+
+- **MSDZip** has been accepted to **WWW '25** [[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714655) [[Repo]](https://github.com/mhuidong/MSDZip)
+- **MSDLC** has been accepted to **ICASSP '25** [[Paper]](https://ieeexplore.ieee.org/document/10889184) [[Repo]](https://github.com/mhuidong/MSDLC)
+- **NNLCB** has been accepted by **FCS '25** [[Paper]](https://link.springer.com/article/10.1007/s11704-024-40300-5) [[Repo]](https://github.com/mhuidong/NNLCB)
+
+
 
 
 <!--
